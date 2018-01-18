@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="stellar-vanity-account:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/stellar_vanity_account_jar</output-path>
+    <root id="archive" name="stellar-vanity-account.jar">
+      <element id="module-output" name="Playground" />
+      <element id="extracted-dir" path="$KOTLIN_BUNDLED$/lib/kotlin-stdlib.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$KOTLIN_BUNDLED$/lib/kotlin-reflect.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$KOTLIN_BUNDLED$/lib/kotlin-test.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$KOTLIN_BUNDLED$/lib/kotlin-stdlib-jre7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$KOTLIN_BUNDLED$/lib/kotlin-stdlib-jre8.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/java-stellar-sdk-0.1.14/build/libs/stellar-sdk.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
