@@ -3,7 +3,7 @@ Use this Kotlin/JVM program to generate a Stellar Account the ends with the name
 
 ## How to use
 * Install Java 8
-* Run: `java -jar ./Stellar-Account-Vanity`
+* Run: `java -jar ./stellar-vanity-account.jar`
 * Follow the on-screen prompt
 * Wait for a period of time (takes longer the more characters entered)
 * Note: To avoid very long wait times, I recommend using a name of max 4 characters
