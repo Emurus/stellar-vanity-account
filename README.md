@@ -6,7 +6,7 @@ Use this Kotlin/JVM program to generate a Stellar Account the ends with the name
 * Run: `java -jar ./Stellar-Account-Vanity`
 * Follow the on-screen prompt
 * Wait for a period of time (takes longer the more characters entered)
-* Note: To avoid very long waiting times, I recommend using a name of max 4 characters
+* Note: To avoid very long wait times, I recommend using a name of max 4 characters
 * Note: NEVER EVER share your secret key (starting with the letter S) with anyone
 
 ## Example
@@ -16,7 +16,7 @@ Found Stellar keypair in 2816 tries
 public key: GC...XLM
 secret key: S...SLY
 ```
-As you can see the puclic key ends with the provided name: XLM.
+As you can see the public key ends with the provided name: XLM.
 
 ## Donations
 Donations welcome: `GDHOJPPUGBEFCIONZ3GACBQ5JLOECHIYQKPEOKR5X3JIWL4VKGESUEMU`
